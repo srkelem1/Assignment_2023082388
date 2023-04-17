@@ -19,6 +19,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Read <Link href="/posts/first-page">this page!</Link>
         </h1>
+        <Link href="/index.html">Bouncing-ball!</Link>
         <div className={styles.description}>
           <p>
             Get started by editing&nbsp;
